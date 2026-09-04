@@ -38,8 +38,8 @@ to use, what success means, and how to recover from setup problems.
 - [glade](https://github.com/glade-sh/glade): the runtime, CLI, editor tooling,
   product documentation, and releases. Start here.
 - [glade-tools](https://github.com/glade-sh/glade-tools): optional first-party
-  compatibility, performance, and package-contract plugins. Check its licensing
-  status and tested product pairing before adoption; base Glade needs no plugin.
+  compatibility, performance, and package-contract plugins. Check its tested
+  product pairing before adoption; base Glade needs no plugin.
 
 ## What Glade Covers
 
@@ -61,3 +61,13 @@ Include version, OS, command, test names/count, and a minimal public reproductio
 Do not paste proprietary source, credentials, private package names, customer
 records, or unredacted support bundles. Report vulnerabilities through the
 [private security route](https://github.com/glade-sh/glade/security/advisories/new).
+
+## Project Information
+
+- License: [Apache License 2.0](../LICENSE)
+- Security contact: [security@glade.sh](mailto:security@glade.sh)
+- Community conduct contact: [conduct@glade.sh](mailto:conduct@glade.sh)
+
+Glade is an independent open-source project. It is not affiliated with,
+sponsored by, or endorsed by Salesforce. Salesforce and Apex are trademarks
+of Salesforce, Inc.
