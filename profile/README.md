@@ -65,6 +65,7 @@ records, or unredacted support bundles. Report vulnerabilities through the
 ## Project Information
 
 - License: [Apache License 2.0](../LICENSE)
+- Community standards: [Code of Conduct](../CODE_OF_CONDUCT.md)
 - Security contact: [security@glade.sh](mailto:security@glade.sh)
 - Community conduct contact: [conduct@glade.sh](mailto:conduct@glade.sh)
 
